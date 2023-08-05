@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9bmgnogybtaoh4kd/branch/master?svg=true)](https://ci.appveyor.com/project/TatianaRudikova/basicsofautomation-apici/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/7m48n0m6oo9h5u7r?svg=true)](https://ci.appveyor.com/project/malushkru0878/mobilebankapps-2snra)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
